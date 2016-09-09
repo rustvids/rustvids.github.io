@@ -1,4 +1,6 @@
-gophervids: a single-page app for browsing curated Go videos
+rustvids: a single-page app for browsing curated Rust videos
+
+Based on [RustVids](https://rustvids.github.io).
 
 Please take this and make it better.  The source code is public domain.
 
