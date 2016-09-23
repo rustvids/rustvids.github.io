@@ -2,7 +2,7 @@
     {
         "id": "agzf6ftEsLU",
         "date": "2014-12-11",
-        "added": "2014-12-11",
+        "added": "2016-09-22",
         "title": "Intro to the Rust programming language",
         "speakers": [
             "Alex Crichton"
@@ -13,14 +13,14 @@
     },
     {
         "id": "rKnDgT73v8s",
-        "date": "2009-10-30",
-        "added": "2014-02-18",
-        "title": "The Go Programming Language",
+        "date": "2015-07-02",
+        "added": "2016-09-22",
+        "title": "What is Rust?",
         "speakers": [
-            "rob-pike"
+            "Yehuda Katz"
         ],
         "tags": [
-            "historic"
+            "intro"
         ]
     }
 ]
