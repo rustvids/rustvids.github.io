@@ -1,8 +1,7 @@
-rustvids: a single-page app for browsing curated Rust videos
+# RustVids
 
-Based on [RustVids](https://rustvids.github.io).
+A single-page app for browsing curated Rust videos
 
-Please take this and make it better.  The source code is public domain.
+Based on [GopherVids](https://github.com/dgryski/gophervids).
 
-The Gopher image (http://blog.golang.org/gopher) was created by Renee French and is
-licensed under the Creative Commons Attribution 3.0 license
+Please take this and make it better. The source code is public domain.
