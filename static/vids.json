@@ -1,14 +1,14 @@
 [
     {
-        "id": "4RSJg_1TdpA",
-        "date": "2010-01-19",
-        "added": "2014-04-16",
-        "title": "Go Behave! A BDD Framework for the Go Programming Language",
+        "id": "agzf6ftEsLU",
+        "date": "2014-12-11",
+        "added": "2014-12-11",
+        "title": "Intro to the Rust programming language",
         "speakers": [
-            "samuel-tesla"
+            "Alex Crichton"
         ],
         "tags": [
-            "bdd"
+            "intro"
         ]
     },
     {
