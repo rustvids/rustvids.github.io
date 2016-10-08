@@ -36,6 +36,18 @@
         ]
     },
     {
+        "id": "bjHIOVvf208",
+        "date": "2016-09-11",
+        "added": "2016-10-08",
+        "title": "Rust for Pythonistas",
+        "speakers": [
+            "Robert Collins"
+        ],
+        "tags": [
+            "comparation"
+        ]
+    },
+    {
         "id": "jDQaIl_1Nfk",
         "date": "2015-08-14",
         "added": "2016-09-23",
