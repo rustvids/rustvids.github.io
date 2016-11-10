@@ -12,6 +12,18 @@
         ]
     },
     {
+        "id": "GbWECt0M3CI",
+        "date": "2016-08-28",
+        "added": "2016-11-09",
+        "title": "Rust: Safe and Scalable Systems Programming",
+        "speakers": [
+            "Alex Crichton"
+        ],
+        "tags": [
+            "intro"
+        ]
+    },
+    {
         "id": "vWKRNP57QIs",
         "date": "2015-07-02",
         "added": "2016-09-23",
