@@ -82,5 +82,41 @@
         "tags": [
             "history"
         ]
+    },
+    {
+        "id": "LoKPupeKW08",
+        "date": "2016-11-11",
+        "added": "2016-11-20",
+        "title": "Sensors, Servos, and Signals with Rust",
+        "speakers": [
+            "Tim Cameron Ryan"
+        ],
+        "tags": [
+            "communication_protocols"
+        ]
+    },
+    {
+        "id": "WxbrhruIAa8",
+        "date": "2016-11-11",
+        "added": "2016-11-20",
+        "title": "IntermezzOS: a teaching operating system",
+        "speakers": [
+            "Ashley Williams"
+        ],
+        "tags": [
+            "operating_system"
+        ]
+    },
+    {
+        "id": "fI4RG_uq-WU",
+        "date": "2016-11-11",
+        "added": "2016-11-20",
+        "title": "Subtyping in Rust and Clarke's Third Law",
+        "speakers": [
+            "Felix Klock"
+        ],
+        "tags": [
+            "intermezzOS"
+        ]
     }
 ]
