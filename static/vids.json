@@ -118,5 +118,17 @@
         "tags": [
             "subtyping"
         ]
+    },
+    {
+        "id": "-ylbuEzkG4M",
+        "date": "2016-12-09",
+        "added": "2016-12-09",
+        "title": "Extending Python with Rust",
+        "speakers": [
+            "Samuel Cormier"
+        ],
+        "tags": [
+            "python"
+        ]
     }
 ]
