@@ -130,5 +130,18 @@
         "tags": [
             "python"
         ]
+    },
+    {
+        "id": "KNmlyjg9-DA",
+        "date": "2016-07-15",
+        "added": "2016-12-17",
+        "title": "Introdução a Rust",
+        "speakers": [
+            "Jean Carlo Machado"
+        ],
+        "tags": [
+            "intro",
+            "language_portuguese"
+        ]
     }
 ]
