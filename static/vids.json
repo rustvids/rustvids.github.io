@@ -8,7 +8,7 @@
             "Alex Crichton"
         ],
         "tags": [
-            "intro"
+            "intro","language_english"
         ]
     },
     {
@@ -20,7 +20,7 @@
             "Alex Crichton"
         ],
         "tags": [
-            "intro"
+            "intro","language_english"
         ]
     },
     {
@@ -32,7 +32,7 @@
             "Yehuda Katz"
         ],
         "tags": [
-            "intro"
+            "intro","language_english"
         ]
     },
     {
@@ -44,7 +44,7 @@
             "Sebastian Thiel"
         ],
         "tags": [
-            "comparation"
+            "comparation","language_english"
         ]
     },
     {
@@ -56,7 +56,7 @@
             "Robert Collins"
         ],
         "tags": [
-            "comparation"
+            "comparation","language_english"
         ]
     },
     {
@@ -68,7 +68,7 @@
             "Aaron Turon"
         ],
         "tags": [
-            "history"
+            "history","language_english"
         ]
     },
     {
@@ -80,7 +80,7 @@
             "Niko Matsakis"
         ],
         "tags": [
-            "history"
+            "history","language_english"
         ]
     },
     {
@@ -92,7 +92,7 @@
             "Tim Cameron Ryan"
         ],
         "tags": [
-            "communication_protocols"
+            "communication_protocols","language_english"
         ]
     },
     {
@@ -104,7 +104,7 @@
             "Ashley Williams"
         ],
         "tags": [
-            "operating_system"
+            "operating_system","language_english"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "Felix Klock"
         ],
         "tags": [
-            "subtyping"
+            "subtyping","language_english"
         ]
     },
     {
@@ -128,7 +128,7 @@
             "Samuel Cormier"
         ],
         "tags": [
-            "python"
+            "python","language_english"
         ]
     },
     {
