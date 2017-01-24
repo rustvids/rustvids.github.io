@@ -143,5 +143,19 @@
             "intro",
             "language_portuguese"
         ]
+    },
+    {
+        "id": "AWnza5JX7jQ",
+        "date": "2017-01-22",
+        "added": "2017-01-23",
+        "title": "Getting into the Rusty Bucket: Lessons from Integrating Rust with Existing C",
+        "speakers": [
+            "William Brown"
+        ],
+        "tags": [
+            "ffi",
+            "c",
+            "language_english"
+        ]
     }
 ]
