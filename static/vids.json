@@ -143,5 +143,18 @@
             "intro",
             "language_portuguese"
         ]
+    },
+    {
+        "id": "GCsxYAxw3JQ",
+        "date": "2017-04-30",
+        "added": "2017-04-30",
+        "title": "How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!",
+        "speakers": [
+            "Ashley Williams"
+        ],
+        "tags": [
+            "intro",
+            "language_english"
+        ]
     }
 ]
